@@ -16,7 +16,7 @@
     {
       "binding": "DB",
       "database_name": "xianglu-development",
-      "database_id": "<DATABASE_ID>"
+      "database_id": "757c707b-0417-4fbf-ba58-89e254cd4594"
     }
   ],
   "env": {

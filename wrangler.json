@@ -24,8 +24,8 @@
       "d1_databases": [
         {
           "binding": "DB",
-          "database_name": "pagezero-production",
-          "database_id": "1e6b30f9-afaa-4368-8b76-06ed8d4fe737"
+          "database_name": "xl-production",
+          "database_id": "bdfb06d9-6669-4092-a300-dab3ef35b606"
         }
       ]
     },
@@ -33,8 +33,8 @@
       "d1_databases": [
         {
           "binding": "DB",
-          "database_name": "pagezero-preview",
-          "database_id": "6eb90f35-05ce-4d9e-bd6d-a4b10ebe8c09"
+          "database_name": "xl-preview",
+          "database_id": "3360a03e-41f0-49d0-9c0d-a00b2dfaf984"
         }
       ]
     },

@@ -15,7 +15,7 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "pagezero-development",
+      "database_name": "xianglu-development",
       "database_id": "<DATABASE_ID>"
     }
   ],
@@ -23,7 +23,7 @@
     "production": {
       "d1_databases": [
         {
-          "binding": "xianglu-production",
+          "binding": "DB",
           "database_name": "xianglu-production",
           "database_id": "2d718bdc-6524-4d42-a974-3862600fe98a"
         }
@@ -32,7 +32,7 @@
     "preview": {
       "d1_databases": [
         {
-          "binding": "xianglu-preview",
+          "binding": "DB",
           "database_name": "xianglu-preview",
           "database_id": "0c0470f7-91f8-4d8e-90e2-f6ce3f061149"
         }
@@ -42,7 +42,7 @@
       "d1_databases": [
         {
           "binding": "DB",
-          "database_name": "pagezero-development",
+          "database_name": "xianglu-development",
           "database_id": "<DATABASE_ID>"
         }
       ]

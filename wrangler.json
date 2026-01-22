@@ -23,18 +23,18 @@
     "production": {
       "d1_databases": [
         {
-          "binding": "DB",
-          "database_name": "xl-production",
-          "database_id": "bdfb06d9-6669-4092-a300-dab3ef35b606"
+          "binding": "xianglu-production",
+          "database_name": "xianglu-production",
+          "database_id": "2d718bdc-6524-4d42-a974-3862600fe98a"
         }
       ]
     },
     "preview": {
       "d1_databases": [
         {
-          "binding": "DB",
-          "database_name": "xl-preview",
-          "database_id": "3360a03e-41f0-49d0-9c0d-a00b2dfaf984"
+          "binding": "xianglu-preview",
+          "database_name": "xianglu-preview",
+          "database_id": "0c0470f7-91f8-4d8e-90e2-f6ce3f061149"
         }
       ]
     },
